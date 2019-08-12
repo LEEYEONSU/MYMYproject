@@ -28,6 +28,9 @@
 	- [Generative Pre-trained Transformer(OpenAI GPT) ][19]
 	- [wordpiece embedding -Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation ][20]
 	- [Multi-Task Deep Neural Networks for Natural Language Understanding ][21]
+	- [Activation function - GELUs ( Gaussian Error Limit Units )][22]
+- EMNLP
+	- 
 
 [1]:	https://www.fastcampus.co.kr/data_online_deep/
 [2]:	https://deeplearningzerotoall.github.io/season2/lec_pytorch.html
@@ -50,3 +53,4 @@
 [19]:	https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
 [20]:	https://arxiv.org/abs/1609.08144
 [21]:	https://arxiv.org/pdf/1901.11504.pdf
+[22]:	https://arxiv.org/abs/1606.08415
