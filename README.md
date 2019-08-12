@@ -29,8 +29,7 @@
 	- [wordpiece embedding -Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation ][20]
 	- [Multi-Task Deep Neural Networks for Natural Language Understanding ][21]
 	- [Activation function - GELUs ( Gaussian Error Limit Units )][22]
-- EMNLP
-	- 
+- [EMNLP]()
 
 [1]:	https://www.fastcampus.co.kr/data_online_deep/
 [2]:	https://deeplearningzerotoall.github.io/season2/lec_pytorch.html
