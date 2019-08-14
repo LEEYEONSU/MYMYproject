@@ -1,9 +1,14 @@
 # MYMYproject
 
+# NLP 진행 방향
+
+- CS224n 강의 수강 & 책 스터디
+- 논문 리뷰 및 코드 구현
+
 # 강의
 - [딥러닝/인공지능 올인원 패키지][1], 패스트 캠퍼스, 유료
 - [모두를 위한 딥러닝 시즌2 - PyTorch][2], 유튜브, 무료
-**- [CS224n: Natural Language Processing with Deep Learning][3], Stanford, 무료**
+- **[CS224n: Natural Language Processing with Deep Learning][3], Stanford, 무료**
 - [딥러닝을 이용한 자연어 처리][4], edwith, 무료
 
 # 책
@@ -19,6 +24,7 @@
 # 자료
 - [딥 러닝을 이용한 자연어 처리 입문][12], WikiDocs, 무료
 - [딥 러닝을 이용한 자연어 처리 심화][13], WikiDocs, 무료
+
 # 논문
 - [자연어처리 논문 100개 리스트업][14]
 - [딥러닝 기반 자연어처리 기법의 최근 연구 동향][15]
